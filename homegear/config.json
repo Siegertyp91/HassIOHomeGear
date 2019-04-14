@@ -3,7 +3,7 @@
   "version": "0.3.1",
   "slug": "homegear",
   "description": "Homegear Hassio add-on",
-  "url": "https://github.com/Siegertyp91/HassIOHomeGear",
+  "url": "https://github.com/Siegertyp91/HassIOHomeGear/Homegear",
   "startup": "before",
   "boot": "auto",
   "host_network": true,
