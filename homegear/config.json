@@ -3,7 +3,7 @@
   "version": "0.3.1",
   "slug": "homegear",
   "description": "Homegear Hassio add-on",
-  "url": "https://github.com/stefangries/hassio-addons/homegear",
+  "url": "https://github.com/Siegertyp91/HassIOHomeGear",
   "startup": "before",
   "boot": "auto",
   "host_network": true,
@@ -21,8 +21,8 @@
   },
   "schema": {
   },
-  "devices": [
-    "/dev/ttyAMA0:/dev/ttyAMA0:rwm",
-    "/dev/ttyUSB0:/dev/ttyUSB0:rwm"
-  ]
+  #"devices": [
+  #  "/dev/ttyAMA0:/dev/ttyAMA0:rwm",
+  #  "/dev/ttyUSB0:/dev/ttyUSB0:rwm"
+  #]
 }
